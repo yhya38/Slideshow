@@ -9,8 +9,8 @@ const next2 = document.querySelector("#next2");
 const prev2 = document.querySelector("#prev2");
 
 // Cboth
-const auto = false;
-const auto2 = false;
+const auto = true;
+const auto2 = true;
 const intervalTime = 5000;
 let slideInterval;
 let slideInterval2;
