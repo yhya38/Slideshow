@@ -465,7 +465,7 @@ html {
     height: 70%;
   }
 }
-
+/* 
 @media screen and (min-height: 620px) {
   .buttons button#next {
     top: 280%;
@@ -529,7 +529,7 @@ html {
   #prev2 {
     top: 330%;
   }
-}
+} */
 
 @media screen and (min-width: 1024px) {
   .slider-main {
